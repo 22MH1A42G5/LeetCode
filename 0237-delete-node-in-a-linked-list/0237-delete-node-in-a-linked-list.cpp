@@ -14,10 +14,6 @@ public:
         int l=node->next->val;
         node->next=node->next->next;
         node->val=l;
-        while(node!=NULL){
-            cout<<node->val<<" ";
-            node=node->next;
-        }
 
     }
 };
