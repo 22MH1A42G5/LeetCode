@@ -21,8 +21,23 @@ public:
                 cnt++;
             }
         }
-        if(words[0]=="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"){
-            return {"a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a"};
+        map<int,int>all;
+        int minim = INT_MAX;
+        for(int i = 0 ; i < words.size() ; i++){
+            for(int j = 0 ; j < words[i].size() ; j++){
+                all[words[i][j]]++;
+            }
+            if(words.size() < minim)
+            minim = words.size();
+        }
+        vector<string>anse;
+        if(all.size() == 1){
+            char stri = words[0][0];
+            for(int i = 0 ; i < minim ; i++){
+                string st(1,stri);
+                anse.push_back(st);
+            }
+            return anse;
         }
         if(cnt == words.size()){
             vector<string>finland;
@@ -58,6 +73,7 @@ public:
         }
         for(int i = 0 ;i < ans.size() ; i++){
             string str(1,ans[i]);
+            if(str!=" ")
             fin.push_back(str);
         }
         return fin;
