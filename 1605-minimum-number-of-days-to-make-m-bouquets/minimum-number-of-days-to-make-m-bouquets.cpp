@@ -1,19 +1,35 @@
+#define ll long long
 class Solution {
 public:
-    int minDays(vector<int>& a, int m, int k) {
-        if(1ll*m*k>1ll*a.size()) return -1;
-        int l=0,r=1e9,mid,ret=1e9;
-        while(l<=r){
-            mid=(l+r)/2;
-            int cc=0,s=0;
-            for(auto &i:a){
-                if(i<=mid) s++;
-                else s=0;
-                if(s==k) cc++,s=0; 
+    bool possible(vector<int>vec , int mid,int k,int m){
+        int cnt = 0,bq = 0;
+        for(int i = 0 ; i < vec.size() ; i++){
+            cnt = 0;
+            // int fl = 0;
+            while(i < vec.size() && vec[i] <= mid){
+                i++;
+                cnt++;
+                // fl = 1;
             }
-            if(cc>=m) ret=mid,r=mid-1;
-            else l=mid+1;
+            // if(fl == 1)
+            // i--;
+            bq += cnt/k;
         }
-        return ret;
+        return bq >= m;
+    }
+    int minDays(vector<int>& vec, int m, int k) {
+        int low = 1 , high = *max_element(vec.begin(),vec.end()),mid;
+        if(vec.size() < (ll)m*k)
+        return -1;
+        while(low <= high){
+            mid = (low + high)/2;
+            if(possible(vec,mid,k,m)){
+                high = mid - 1;
+            }
+            else{
+                low = mid + 1;
+            }
+        }
+        return low;
     }
 };
