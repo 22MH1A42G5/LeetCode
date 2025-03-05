@@ -6,8 +6,6 @@ public:
             n <<= 1;
             if (ch == '1') {
                 n += 1;
-            } else if (ch != '0') {
-                return -1;
             }
         }
         return n;
