@@ -24,7 +24,6 @@ public:
                 //st.push(prior(s[i])-an);
             }
         }
-        //int su=0;
         while(!st.empty()){
             su+=prior(st.top());
             st.pop();
