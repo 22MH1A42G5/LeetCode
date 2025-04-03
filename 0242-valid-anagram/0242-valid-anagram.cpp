@@ -7,9 +7,6 @@ public:
         for(int i = 0; i < s.size() ; i++){
             mp[s[i]]++;
         }
-        /*for(auto it:mp){
-            cout<<it.first<<" "<<it.second<<endl;
-        }*/
         for(auto it:mp){
             cout<<it.first<<" "<<it.second<<endl;
         }
