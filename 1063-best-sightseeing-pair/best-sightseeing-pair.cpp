@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxScoreSightseeingPair(vector<int>& v) {
-        int n = v.size();
+        int n=v.size();
         vector<int> maxL(n);
         maxL[0] = v[0];
         int maxS = 0;
