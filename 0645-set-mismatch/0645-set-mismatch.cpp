@@ -23,7 +23,6 @@ public:
             mis=i;
         }
         cout<<i;
-        //cout<<mis;
         for(auto it:m){
             if(it.second==2){
                 v.push_back(it.first);
