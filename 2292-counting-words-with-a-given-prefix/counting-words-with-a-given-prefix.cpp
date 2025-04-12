@@ -6,7 +6,7 @@ public:
             if(words[i].size() >= pref.size()){
                 string sub = words[i].substr(0,pref.size());
                 if(sub == pref)
-                ans++;
+                ans+=1;
             }
         }
         return ans;
