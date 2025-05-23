@@ -14,7 +14,7 @@ public:
             i++;
         }
         for(int i = 0 ; i < arr.size() ; i++){
-            cout<<mp[arr[i]]<<endl;
+            cout<<mp[arr[i]]<<"\n";
         }
         for(int i = 0 ; i < arr.size() ; i++){
             ans.push_back(mp[arr[i]]);
