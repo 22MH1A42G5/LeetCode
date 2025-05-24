@@ -33,7 +33,6 @@ public:
                 headB=headB->next;
             }
         }
-        //cout<<maxi<<" "<<ha<<" "<<hb;
         while(headA!=NULL){
             if(headA==headB){
                 return headA;
