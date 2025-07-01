@@ -7,4 +7,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/22MH1A42G5/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
