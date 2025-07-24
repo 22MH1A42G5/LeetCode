@@ -14,13 +14,6 @@ public:
                 dp[i][j] += dp[i][j-1];
             }
         }
-
-        for(int i = 0 ;i < m ; i++){
-            for(int j = 0 ; j < n ; j++){
-                cout << dp[i][j] << " ";
-            }
-            cout << "\n";
-        }
         return dp[m-1][n-1];
     }
 };
