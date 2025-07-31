@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/22MH1A42G5/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/22MH1A42G5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -49,11 +50,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/22MH1A42G5/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/22MH1A42G5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/22MH1A42G5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
