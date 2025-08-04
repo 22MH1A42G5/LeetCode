@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
+| [0967-minimum-falling-path-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/22MH1A42G5/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## String
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
+| [0967-minimum-falling-path-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/22MH1A42G5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -97,4 +99,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
