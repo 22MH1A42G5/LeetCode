@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/22MH1A42G5/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/22MH1A42G5/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3617-find-the-original-typed-string-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/22MH1A42G5/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/22MH1A42G5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/22MH1A42G5/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
