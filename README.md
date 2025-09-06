@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/22MH1A42G5/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/22MH1A42G5/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/22MH1A42G5/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -142,4 +143,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/22MH1A42G5/LeetCode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
