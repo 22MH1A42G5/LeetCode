@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/22MH1A42G5/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/22MH1A42G5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/22MH1A42G5/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/22MH1A42G5/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0202-happy-number) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/22MH1A42G5/LeetCode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0202-happy-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/22MH1A42G5/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
