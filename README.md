@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/22MH1A42G5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/22MH1A42G5/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/22MH1A42G5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/22MH1A42G5/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/22MH1A42G5/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/22MH1A42G5/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/22MH1A42G5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/22MH1A42G5/LeetCode/tree/master/0242-valid-anagram) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/22MH1A42G5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/22MH1A42G5/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0498-diagonal-traverse](https://github.com/22MH1A42G5/LeetCode/tree/master/0498-diagonal-traverse) |
