@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/22MH1A42G5/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/22MH1A42G5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/22MH1A42G5/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/22MH1A42G5/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/22MH1A42G5/LeetCode/tree/master/0120-triangle) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/22MH1A42G5/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0047-permutations-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -192,5 +194,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/22MH1A42G5/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
