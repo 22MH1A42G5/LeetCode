@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/22MH1A42G5/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/22MH1A42G5/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/22MH1A42G5/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/22MH1A42G5/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/22MH1A42G5/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/22MH1A42G5/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0047-permutations-ii) |
+| [0494-target-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
