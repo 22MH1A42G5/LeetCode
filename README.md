@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/22MH1A42G5/LeetCode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/22MH1A42G5/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/22MH1A42G5/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/22MH1A42G5/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/22MH1A42G5/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/22MH1A42G5/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/22MH1A42G5/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/22MH1A42G5/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0202-happy-number) |
 | [1236-n-th-tribonacci-number](https://github.com/22MH1A42G5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/22MH1A42G5/LeetCode/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/22MH1A42G5/LeetCode/tree/master/0338-counting-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -77,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/22MH1A42G5/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/22MH1A42G5/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/22MH1A42G5/LeetCode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/3336-water-bottles-ii) |
