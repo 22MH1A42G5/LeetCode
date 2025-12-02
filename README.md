@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/22MH1A42G5/LeetCode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/22MH1A42G5/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/22MH1A42G5/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/22MH1A42G5/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0494-target-sum) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/22MH1A42G5/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/22MH1A42G5/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/22MH1A42G5/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/22MH1A42G5/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/22MH1A42G5/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/22MH1A42G5/LeetCode/tree/master/0338-counting-bits) |
