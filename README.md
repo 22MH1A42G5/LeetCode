@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/22MH1A42G5/LeetCode/tree/master/0322-coin-change) |
+| [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/22MH1A42G5/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0518-coin-change-ii) |
@@ -222,10 +223,31 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/22MH1A42G5/LeetCode/tree/master/0035-search-insert-position) |
+| [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/22MH1A42G5/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/22MH1A42G5/LeetCode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
