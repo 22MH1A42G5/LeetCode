@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/22MH1A42G5/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
+| [0287-find-the-duplicate-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/22MH1A42G5/LeetCode/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0494-target-sum) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/22MH1A42G5/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/22MH1A42G5/LeetCode/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/22MH1A42G5/LeetCode/tree/master/0338-counting-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/22MH1A42G5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/22MH1A42G5/LeetCode/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
