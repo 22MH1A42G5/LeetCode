@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/22MH1A42G5/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/22MH1A42G5/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/22MH1A42G5/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/22MH1A42G5/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Linked List
 |  |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/22MH1A42G5/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String Matching
 |  |
 | ------- |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/22MH1A42G5/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/22MH1A42G5/LeetCode/tree/master/0242-valid-anagram) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
