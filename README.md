@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/22MH1A42G5/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22MH1A42G5/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/22MH1A42G5/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3637-trionic-array-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3637-trionic-array-i) |
 ## String
 |  |
 | ------- |
