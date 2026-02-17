@@ -277,4 +277,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/22MH1A42G5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/22MH1A42G5/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
