@@ -281,4 +281,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/22MH1A42G5/LeetCode/tree/master/0182-duplicate-emails) |
+| [0196-delete-duplicate-emails](https://github.com/22MH1A42G5/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
