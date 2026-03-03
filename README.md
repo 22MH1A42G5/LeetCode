@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/22MH1A42G5/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/22MH1A42G5/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G5/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/22MH1A42G5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/22MH1A42G5/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/22MH1A42G5/LeetCode/tree/master/0044-wildcard-matching) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G5/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/22MH1A42G5/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/22MH1A42G5/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/22MH1A42G5/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G5/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/22MH1A42G5/LeetCode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/22MH1A42G5/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
