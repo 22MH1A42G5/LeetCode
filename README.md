@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/22MH1A42G5/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/22MH1A42G5/LeetCode/tree/master/0338-counting-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/22MH1A42G5/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
