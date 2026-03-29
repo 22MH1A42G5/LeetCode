@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/22MH1A42G5/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/22MH1A42G5/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/22MH1A42G5/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
