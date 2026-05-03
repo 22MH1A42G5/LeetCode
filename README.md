@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/22MH1A42G5/LeetCode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/22MH1A42G5/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0796-rotate-string) |
 | [1170-shortest-common-supersequence](https://github.com/22MH1A42G5/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/22MH1A42G5/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
