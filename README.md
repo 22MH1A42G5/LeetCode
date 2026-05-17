@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/22MH1A42G5/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1306-jump-game-iii](https://github.com/22MH1A42G5/LeetCode/tree/master/1306-jump-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/22MH1A42G5/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/22MH1A42G5/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/22MH1A42G5/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/22MH1A42G5/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [1306-jump-game-iii](https://github.com/22MH1A42G5/LeetCode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/22MH1A42G5/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/22MH1A42G5/LeetCode/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/22MH1A42G5/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [1306-jump-game-iii](https://github.com/22MH1A42G5/LeetCode/tree/master/1306-jump-game-iii) |
 ## Backtracking
 |  |
 | ------- |
