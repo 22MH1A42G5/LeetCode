@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/22MH1A42G5/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2540-minimum-common-value](https://github.com/22MH1A42G5/LeetCode/tree/master/2540-minimum-common-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/22MH1A42G5/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22MH1A42G5/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/22MH1A42G5/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/22MH1A42G5/LeetCode/tree/master/1345-jump-game-iv) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2540-minimum-common-value](https://github.com/22MH1A42G5/LeetCode/tree/master/2540-minimum-common-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/22MH1A42G5/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/22MH1A42G5/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2540-minimum-common-value](https://github.com/22MH1A42G5/LeetCode/tree/master/2540-minimum-common-value) |
 ## String Matching
 |  |
 | ------- |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/22MH1A42G5/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
+| [2540-minimum-common-value](https://github.com/22MH1A42G5/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
