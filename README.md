@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/22MH1A42G5/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/22MH1A42G5/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/22MH1A42G5/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -315,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/22MH1A42G5/LeetCode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/22MH1A42G5/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/22MH1A42G5/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
