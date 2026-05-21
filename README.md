@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/22MH1A42G5/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/22MH1A42G5/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22MH1A42G5/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/22MH1A42G5/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3637-trionic-array-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3637-trionic-array-i) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/22MH1A42G5/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3617-find-the-original-typed-string-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/22MH1A42G5/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22MH1A42G5/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
 |  |
 | ------- |
