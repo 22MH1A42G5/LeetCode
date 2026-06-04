@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/22MH1A42G5/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-find-closest-person](https://github.com/22MH1A42G5/LeetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/22MH1A42G5/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/22MH1A42G5/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/22MH1A42G5/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -334,4 +336,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0856-score-of-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
