@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/22MH1A42G5/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/22MH1A42G5/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3637-trionic-array-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3637-trionic-array-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
 | ------- |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/22MH1A42G5/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/22MH1A42G5/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3689-maximum-total-subarray-value-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Linked List
 |  |
 | ------- |
