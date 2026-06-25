@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/22MH1A42G5/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -55,10 +55,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-trionic-array-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/22MH1A42G5/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/22MH1A42G5/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/22MH1A42G5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/22MH1A42G5/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -92,8 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3617-find-the-original-typed-string-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3838-weighted-word-mapping](https://github.com/22MH1A42G5/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/22MH1A42G5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/22MH1A42G5/LeetCode/tree/master/0013-roman-to-integer) |
@@ -113,8 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-find-closest-person](https://github.com/22MH1A42G5/LeetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/22MH1A42G5/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/22MH1A42G5/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/22MH1A42G5/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -123,16 +124,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/22MH1A42G5/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/22MH1A42G5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/22MH1A42G5/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/22MH1A42G5/LeetCode/tree/master/0044-wildcard-matching) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G5/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/22MH1A42G5/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/22MH1A42G5/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/22MH1A42G5/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -144,8 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3838-weighted-word-mapping](https://github.com/22MH1A42G5/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/22MH1A42G5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/22MH1A42G5/LeetCode/tree/master/0013-roman-to-integer) |
@@ -165,14 +166,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/22MH1A42G5/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22MH1A42G5/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/22MH1A42G5/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22MH1A42G5/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/22MH1A42G5/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/22MH1A42G5/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/22MH1A42G5/LeetCode/tree/master/0062-unique-paths) |
@@ -198,60 +201,60 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/22MH1A42G5/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/22MH1A42G5/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/22MH1A42G5/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/22MH1A42G5/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/22MH1A42G5/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/22MH1A42G5/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/22MH1A42G5/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/22MH1A42G5/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1306-jump-game-iii](https://github.com/22MH1A42G5/LeetCode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/22MH1A42G5/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/22MH1A42G5/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/22MH1A42G5/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/22MH1A42G5/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/22MH1A42G5/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/22MH1A42G5/LeetCode/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/22MH1A42G5/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1306-jump-game-iii](https://github.com/22MH1A42G5/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/22MH1A42G5/LeetCode/tree/master/1345-jump-game-iv) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/22MH1A42G5/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/22MH1A42G5/LeetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/22MH1A42G5/LeetCode/tree/master/0494-target-sum) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/22MH1A42G5/LeetCode/tree/master/0062-unique-paths) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/22MH1A42G5/LeetCode/tree/master/0139-word-break) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/22MH1A42G5/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/22MH1A42G5/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/22MH1A42G5/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -261,8 +264,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/22MH1A42G5/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/22MH1A42G5/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/22MH1A42G5/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/22MH1A42G5/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -273,14 +276,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/22MH1A42G5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/22MH1A42G5/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/22MH1A42G5/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/22MH1A42G5/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/22MH1A42G5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -292,13 +295,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G5/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2540-minimum-common-value](https://github.com/22MH1A42G5/LeetCode/tree/master/2540-minimum-common-value) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/22MH1A42G5/LeetCode/tree/master/0796-rotate-string) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/22MH1A42G5/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/22MH1A42G5/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/22MH1A42G5/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -306,8 +309,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
 | [2540-minimum-common-value](https://github.com/22MH1A42G5/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0047-permutations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/22MH1A42G5/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/22MH1A42G5/LeetCode/tree/master/0242-valid-anagram) |
@@ -315,52 +318,56 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/22MH1A42G5/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/22MH1A42G5/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/22MH1A42G5/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/22MH1A42G5/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/22MH1A42G5/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/22MH1A42G5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/22MH1A42G5/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0182-duplicate-emails](https://github.com/22MH1A42G5/LeetCode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/22MH1A42G5/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/22MH1A42G5/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/22MH1A42G5/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/22MH1A42G5/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/22MH1A42G5/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/22MH1A42G5/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/22MH1A42G5/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/22MH1A42G5/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
